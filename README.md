@@ -3,7 +3,7 @@
 # Hey, I'm Jo'rabek 👋
 ### Full Stack Developer · Python / FastAPI / React · Telegram Bot Engineer
 
-🇺🇿 Bukhara, Uzbekistan &nbsp;|&nbsp; 🎓 BSc Cyber Security @ University of Wolverhampton &nbsp;|&nbsp; 🌍 Open to Remote
+Uzbekistan &nbsp;|&nbsp; 🎓 BSc Cyber Security @ University of Wolverhampton &nbsp;|&nbsp; 🌍 Open to Remote
 
 </div>
 
