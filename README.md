@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Mandarin Cargo System](https://t.me/mandarin_cargo_bot)** — 10,000+ active users, 1+ ton of shipments/week
+- 🔭 Currently building **[Mandarin Cargo System](https://t.me/)** — 10,000+ active users, 1+ ton of shipments/week
 - 🌱 Learning **Rust** and deepening system-level programming skills
 - 💼 3+ years freelancing: Telegram bots, REST APIs, full-stack web platforms
 - 🛡️ Studying **Cyber Security** (2nd year) — comfortable with Ubuntu & Kali Linux
-- 📬 Reach me: **gaybullayevjorabek@gmail.com** · **j.a.gaybulloyev@wlv.ac.uk**
+- 📬 Reach me: **gaybullayevjorabek@gmail.com**
 - ⚡ Fun fact: I shipped my first production bot before finishing my first year at university
 
 ---
