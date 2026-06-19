@@ -11,11 +11,11 @@ Uzbekistan &nbsp;|&nbsp; 🎓 BSc Cyber Security @ University of Wolverhampton &
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Mandarin Cargo System](https://t.me/mandarincargobot)** — 10,000+ active users, 1+ ton of shipments/week
+- 🔭 Currently building **[Mandarin Cargo System](https://mandarincargo.uz)** — 10,000+ active users, 1+ ton of shipments/week
 - 🌱 Learning **Rust** and deepening system-level programming skills
 - 💼 3+ years freelancing: Telegram bots, REST APIs, full-stack web platforms
 - 🛡️ Studying **Cyber Security** (2nd year) — comfortable with Ubuntu & Kali Linux
-- 📬 Reach me: **gaybullayevjorabek@gmail.com**
+- 📬 Reach me: **gaybullayevjorabek@gmail.com** or Telegram **[RE Programmer](https://t.me/java_strong)**
 - ⚡ Fun fact: I shipped my first production bot before finishing my first year at university
 
 ---
@@ -29,15 +29,18 @@ Uzbekistan &nbsp;|&nbsp; 🎓 BSc Cyber Security @ University of Wolverhampton &
 ![Aiogram](https://img.shields.io/badge/Aiogram3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 **Tools & Systems**
 
