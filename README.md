@@ -10,7 +10,7 @@ Uzbekistan &nbsp;|&nbsp; 🎓 BSc Cyber Security @ University of Wolverhampton &
 ---
 
 ## 🚀 About Me
-softhub.uz
+https://www.softhub.uz
 - 🔭 Currently building **[Mandarin Cargo System](https://mandarincargo.uz)** — 10,000+ active users, 1+ ton of shipments/week
 - 🌱 Learning **Rust** and deepening system-level programming skills
 - 💼 3+ years freelancing: Telegram bots, REST APIs, full-stack web platforms
@@ -99,7 +99,7 @@ softhub.uz
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/java_strong)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dasturlash_qiroli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaybullayevjorabek@gmail.com)
-softhub.uz
+https://www.softhub.uz
 ---
 
 <div align="center">
